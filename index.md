@@ -7,3 +7,6 @@ The change I made was i added a list of my favorite cheeses.
 ```javascript
 var myVar: 'Hello World';
 ```
+- [x] organize my cheese
+- [x] eat some cheese
+- [ ] cheese tolerance break
